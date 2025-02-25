@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ablagom03
 - 👀 I’m interested in programming!
-- 🌱 I’m currently learning Delphi!
+- 🌱 I’m currently learning Java!
 - 📫 How to reach me: Contact 1eso1516ablagom@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: This was made for a project in High School!
